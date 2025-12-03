@@ -1,0 +1,10 @@
+name : json list name : songcount : songs planted (name/artist/embed) : songs done : link
+-------------------------------------------------------------------------------------------------------------
+2018: "eighteen"    : 100 : 0 : 0 : https://open.spotify.com/playlist/3uXNxIMQ0yl524NLbPZohg?si=ceb4b2e338e64ed2&pt=e40bb7df5dd0cc5c433ba9ea13e15999
+2019: "nineteen"    : 100 : 0 : 0 : https://open.spotify.com/playlist/1llSqm2saIUPNTbKAtulxX?si=bad4dab81fb440ad&pt=b5cc73728afcfbd472ad8401fafb2008
+2020: "twenty"      : 100 : 0 : 0 : https://open.spotify.com/playlist/3oC1RejGlikWlJSGd067YV?si=93f1491c53a24347
+2021: "twentyone"   : 100 : 0 : 0 : dont have the money to pay for this yet
+2022: "twentytwo"   : 100 : 0 : 0 : dont have the money to pay for this yet
+2023: "twentythree" : 100 : 0 : 0 : dont have the money to pay for this yet
+2024: "twentyfour"  : 100 : ? : ? : i can finish this one myself
+2025: "twentyfive"  : 100 : 0 : 0 : i can also probably do this one myself
